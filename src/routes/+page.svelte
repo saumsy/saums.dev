@@ -106,5 +106,10 @@
     <a href="https://github.com/saumsy" target="_blank" class="text-gray-500 hover:text-accent"
       >github</a
     >
+    <a
+      href="https://linkedin.com/in/saumyapat"
+      target="_blank"
+      class="text-gray-500 hover:text-accent">linkedin</a
+    >
   </div>
 </footer>
