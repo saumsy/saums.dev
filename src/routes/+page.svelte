@@ -82,7 +82,7 @@
         </h2>
         <p class="mb-4 font-mono text-gray-500">co-developer</p>
         <p class="text-gray-300">
-          relive your favorite sport through the best cricket bot on discord with 48k+ users & 20k+
+          relive your favorite sport through the best cricket bot on discord with 48k+ users & 21k+
           servers
         </p>
       </div>
