@@ -76,7 +76,7 @@
 
       <div>
         <h2 class="mb-1 text-2xl">
-          <a href="https://cricketguru.pro" target="_blank" class="text-white hover:text-accent"
+          <a href="https://cricketguru.me" target="_blank" class="text-white hover:text-accent"
             >cricket guru</a
           >
         </h2>
