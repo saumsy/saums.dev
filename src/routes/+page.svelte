@@ -20,8 +20,8 @@
   <title>saums</title>
   <meta property="og:title" content="saums" />
   <meta property="og:description" content="a boring developer" />
-  <meta property="og:image" content="https://saums.me/images/saumya-card.png" />
-  <meta property="twitter:image" content="https://saums.me/images/saumya-card.png" />
+  <meta property="og:image" content="https://saums.dev/images/saumya-card.png" />
+  <meta property="twitter:image" content="https://saums.dev/images/saumya-card.png" />
   <meta name="twitter:card" content="summary_large_image" />
 </svelte:head>
 
@@ -82,7 +82,7 @@
         </h2>
         <p class="mb-4 font-mono text-gray-500">co-developer</p>
         <p class="text-gray-300">
-          relive your favorite sport through the best cricket bot on discord with 50k+ users & 21k+
+          relive your favorite sport through the best cricket bot on discord with 51k+ users & 21k+
           servers
         </p>
       </div>
@@ -99,7 +99,7 @@
 
 <footer class="mt-12 py-6">
   <div class="flex gap-4 font-mono text-sm">
-    <a href="mailto:hi@saums.me" class="text-gray-500 hover:text-accent">email</a>
+    <a href="mailto:hi@saums.dev" class="text-gray-500 hover:text-accent">email</a>
     <a href="https://twitter.com/saums27" target="_blank" class="text-gray-500 hover:text-accent"
       >x.com</a
     >

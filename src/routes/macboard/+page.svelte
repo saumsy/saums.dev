@@ -37,8 +37,8 @@
   <title>macboard | saums</title>
   <meta property="og:title" content="macboard | saums" />
   <meta property="og:description" content="a minimalistic clipboard manager for macos" />
-  <meta property="og:image" content="https://saums.me/project-assets/macboard-full.png" />
-  <meta property="twitter:image" content="https://saums.me/project-assets/macboard-full.png" />
+  <meta property="og:image" content="https://saums.dev/project-assets/macboard-full.png" />
+  <meta property="twitter:image" content="https://saums.dev/project-assets/macboard-full.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="theme-color" content="#6A5ACD" />
 </svelte:head>
