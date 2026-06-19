@@ -38,7 +38,7 @@
     </p>
 
     <p class="text-lg text-gray-300">
-      i'm a 18 y/o student, self taught developer. i love building stuff that helps me learn
+      i'm a 19 y/o student, self taught developer. i love building stuff that helps me learn
       something new. if i'm not coding, i'm probably just vibing to my favorite music artists,
       playing or watching sports.
     </p>
