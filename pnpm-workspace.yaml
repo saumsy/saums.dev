@@ -1,6 +1,15 @@
+# Vercel installs with pnpm 9 (it ignores `packageManager` unless Corepack is
+# enabled), and pnpm 9 rejects this file outright without a `packages` field:
+# "ERROR packages field missing or empty". Keep this even though we are a
+# single-package repo.
+packages:
+  - .
+
 # Was `engine-strict=true` in .npmrc; pnpm 11 only reads auth/registry from .npmrc.
 engineStrict: true
 
+# pnpm 10+ blocks dependency postinstall scripts by default. esbuild needs its
+# own to place the platform binary. (No-op on pnpm 9, which never blocked them.)
 allowBuilds:
   core-js: false
   esbuild: true
