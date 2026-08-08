@@ -1,0 +1,7 @@
+# Was `engine-strict=true` in .npmrc; pnpm 11 only reads auth/registry from .npmrc.
+engineStrict: true
+
+allowBuilds:
+  core-js: false
+  esbuild: true
+  svelte-preprocess: false
