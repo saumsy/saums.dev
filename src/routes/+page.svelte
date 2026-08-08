@@ -107,7 +107,7 @@
       >github</a
     >
     <a
-      href="https://linkedin.com/in/saumyapat"
+      href="https://www.linkedin.com/in/saumyapatel27"
       target="_blank"
       class="text-gray-500 hover:text-accent">linkedin</a
     >
