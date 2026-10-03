@@ -19,6 +19,22 @@
       tech: ["python", "discord.py", "mongodb"]
     },
     {
+      title: "brushy",
+      description:
+        "an endless canvas where paint mixes like real pigment. paint blue into wet yellow and you get green, not grey",
+      link: "https://brushy.saums.dev",
+      role: "creator & maintainer",
+      tech: ["typescript", "next.js", "webgl2", "rough.js"]
+    },
+    {
+      title: "7-0",
+      description:
+        "a pokemon draft gauntlet: pick six pokemon and try to beat seven gym leaders without losing a single badge",
+      link: "https://7-0.saums.dev",
+      role: "creator",
+      tech: ["typescript", "next.js", "tailwindcss"]
+    },
+    {
       title: "localizer",
       description: "a cli tool that helps you localize your applications efficiently",
       link: "https://github.com/saumsy/localizer",

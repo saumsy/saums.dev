@@ -87,6 +87,19 @@
         </p>
       </div>
 
+      <div>
+        <h2 class="mb-1 text-2xl">
+          <a href="https://brushy.saums.dev" target="_blank" class="text-white hover:text-accent"
+            >brushy</a
+          >
+        </h2>
+        <p class="mb-4 font-mono text-gray-500">creator & maintainer</p>
+        <p class="text-gray-300">
+          an endless canvas where paint mixes like real pigment. paint blue into wet yellow and you
+          get green, not grey
+        </p>
+      </div>
+
       <a
         href="/projects"
         class="mt-8 inline-flex items-center font-mono text-accent hover:underline"
